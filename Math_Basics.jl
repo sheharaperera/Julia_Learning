@@ -30,3 +30,12 @@ println("Tangent of 0: ", tand(0))
 println("Inverse Sine of 0: ", asind(0))
 println("Inverse Cosine of 0: ", acosd(0))
 println("Inverse Tangent of 0: ", atand(0))
+
+# Basic Logarithmic Operations
+println("\nBasic Logarithmic Operations")
+println("Natural Logarithm of 1: ", log(1))
+println("Base 10 Logarithm of 1: ", log10(1))
+println("Base 2 Logarithm of 1: ", log2(1))
+println("Exponential of 1: ", exp(1))
+println("2 raised to the power of 3: ", 2^3)
+
