@@ -21,3 +21,12 @@ println("Matrix Multiplication: \n", A * B)
 println("Matrix Transpose of A: \n", transpose(A))
 println("Matrix Inverse of A: \n", inv(A))
 println("Matrix Determinant of A: ", det(A))
+
+# Basic Trigonometric Operations
+println("\nBasic Trigonometric Operations")
+println("Sine of 0: ", sind(0))
+println("Cosine of 0: ", cosd(0))
+println("Tangent of 0: ", tand(0))
+println("Inverse Sine of 0: ", asind(0))
+println("Inverse Cosine of 0: ", acosd(0))
+println("Inverse Tangent of 0: ", atand(0))
